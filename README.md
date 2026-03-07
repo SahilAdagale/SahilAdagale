@@ -1,8 +1,8 @@
-## 👋 About Me
+Hi there, I'm Sahil! 👋
+I am a Third-Year Information Technology Student and an aspiring Full-Stack Developer. I love bridging the gap between complex back-end logic and intuitive front-end design.
 
-I am a passionate developer currently focusing on C++ and Data Structures & Algorithms.  
-I enjoy solving coding problems and building projects to improve my programming skills.
+🔭 Current Focus: Mastered JavaScript and currently diving deep into Node.js and Backend Architecture.
 
-Currently learning:
-- Data Structures & Algorithms
-- Web Development
+💡 Problem Solving: Actively solving DSA challenges in C++ to write more efficient, scalable code.
+
+🌱 Learning: Exploring system performance and Linux environments.
