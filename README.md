@@ -15,4 +15,4 @@ Building Scalable Web Solutions with the MERN Stack | 100+ Problems Solved in C+
 ---
 [![](https://visitcount.itsvg.in/api?id=SahilAdagale&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Sahil_Adagale)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Sahil_Adagale?theme=dark&font=Baloo&ext=contest)
